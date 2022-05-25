@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Muhammad Raykram
-[![Gmail Badge](https://img.shields.io/badge/-muhammadraykram@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:muhammadraykram@gmail.com)](mailto:muhammadraykram@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-GMAIL-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:gil.exeee@gmail.com)](mailto:gil.exeee@gmail.com) 
 [![LinkedIn Badge](https://img.shields.io/badge/-Muhammad--Raykram-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/raykram)](https://linkedin.com/in/raykram) 
 [![Twitter Badge](https://img.shields.io/badge/-raykramx-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/raykramx)](https://twitter.com/raykramx) 
 [![Facebook Badge](https://img.shields.io/badge/-Muhammad--Raykram-1877F2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/raykramx)](https://facebook.com/raykramx)

@@ -1,8 +1,7 @@
-## Hey 👋, I'm Muhammad Raykram
-[![Gmail Badge](https://img.shields.io/badge/-GMAIL-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:gil.exeee@gmail.com)](mailto:gil.exeee@gmail.com) 
-[![LinkedIn Badge](https://img.shields.io/badge/-Muhammad--Raykram-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/raykram)](https://linkedin.com/in/raykram) 
-[![Twitter Badge](https://img.shields.io/badge/-raykramx-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/raykramx)](https://twitter.com/raykramx) 
-[![Facebook Badge](https://img.shields.io/badge/-Muhammad--Raykram-1877F2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/raykramx)](https://facebook.com/raykramx)
+## Hey 👋, I'm Gilang Syahidan
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:gil.exeee@gmail.com)](mailto:gil.exeee@gmail.com) 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIN-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/gilsyah)](https://linkedin.com/in/gilsyah) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/gilsyah)](https://facebook.com/gilsyah)
 
 I am a vocational high school student who is interested in technology especially programming and here are some of the programming languages ​​I use
 

@@ -5,7 +5,7 @@
 
 I am a vocational high school student who is interested in technology especially programming and here are some of the programming languages ​​I use
 
-{![HTML](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=HTML5&link=https://linkedin.com/in/gilsyah)]&nbsp;
+[![HTML](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=HTML5&link=https://linkedin.com/in/gilsyah)]&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-282A36?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-282A36?style=flat&logo=PHP)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-282A36?style=flat&logo=bootstrap)&nbsp;

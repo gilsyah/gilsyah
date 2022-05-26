@@ -12,5 +12,5 @@ I am a vocational high school student who is interested in technology especially
 
 ## My Github Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=holiq&show_icons=true&include_all_commits=true&count_private=true&&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats)](https://github.com/raykram/raykramx)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holiq&layout=compact&hide_border=true&langs_count=8&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe)](https://github.com/raykram/raykram)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=gilsyah&show_icons=true&include_all_commits=true&count_private=true&&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats)](https://github.com/gilsyah/gilsyah)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilsyah&layout=compact&hide_border=true&langs_count=8&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe)](https://github.com/gilsyah/gilsyah)
